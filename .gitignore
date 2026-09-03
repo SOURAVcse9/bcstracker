@@ -1,0 +1,54 @@
+﻿# ── Dart / Flutter ────────────────────────────────────────────────────────────
+.dart_tool/
+.packages
+pubspec.lock
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# ── Build outputs ─────────────────────────────────────────────────────────────
+build/
+*.apk
+*.aab
+*.ipa
+
+# ── Android ───────────────────────────────────────────────────────────────────
+android/.gradle/
+android/local.properties
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/key.properties
+*.jks
+*.keystore
+
+# ── iOS ───────────────────────────────────────────────────────────────────────
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Runner/GeneratedPluginRegistrant.*
+
+# ── IDEs ──────────────────────────────────────────────────────────────────────
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# ── macOS ─────────────────────────────────────────────────────────────────────
+.DS_Store
+*.DS_Store
+
+# ── Windows ───────────────────────────────────────────────────────────────────
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ── Logs ──────────────────────────────────────────────────────────────────────
+*.log
+npm-debug.log*
+
+# ── Environment / Secrets ─────────────────────────────────────────────────────
+.env
+.env.*
+secrets.dart
