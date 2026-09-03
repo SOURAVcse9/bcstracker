@@ -176,7 +176,7 @@ flutter build apk --release
 ## 👤 Author
 
 **SOURAV DEBNATH**  
-GitHub: [@SouravDebnath](https://github.com/SouravDebnath)
+GitHub: [@SOURAVcse9](https://github.com/SOURAVcse9)
 
 ---
 
